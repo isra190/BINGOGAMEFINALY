@@ -1,0 +1,9 @@
+{
+  "name": "Bingogamefinaly",
+  "files": {
+    "./main.py": "main.py",
+    "./card_matrix.py": "card_matrix.py",
+    "./index.html": "index.html",
+    "./style.css": "style.css"
+  }
+}
